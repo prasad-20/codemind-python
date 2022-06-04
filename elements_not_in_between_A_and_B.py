@@ -8,5 +8,3 @@ for i in lst:
         f=1
 if f==0:
     print(-1)
-        
-
